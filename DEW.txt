@@ -1,0 +1,22 @@
+Aula de hoja
+passos do github
+1-entrar no github
+2-entrar no VS code
+3-fechar pasta(se estiver aberta)-file-- Close folder
+4-ir no botao source control
+5- clone repository
+6-Copiar url do repositorio no Github e digitar enter 
+7-cloar o repositorio em c:/xampp/htdocs e clocar em open
+8- tela azul se confia no autor clocar em sim
+-----------------------------------------fim da clonagem
+-----------------------------------------configurar terminal
+1-ir no menu terminal -- new terminal
+2-digitar os comandos;
+git config --global user.email "feestavaer@gmail.com"
+git config --global.nam "Estavare"
+3-fechar o terminal
+-----------------------------------------
+-----------------------------------------Enviando mudanças par ao github
+1- salvar as mudanças 
+2- ir no source control
+3-em Changs clicar em "+"
