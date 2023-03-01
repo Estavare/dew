@@ -20,3 +20,9 @@ git config --global.nam "Estavare"
 1- salvar as mudanças 
 2- ir no source control
 3-em Changs clicar em "+"
+4- colocar mensagem no commit
+5- clicar na seta
+6-commit and push
+7-dar as autorizaçeos (se necessario)
+8-ver no github se foi atualizado
+-----------------------------------------Fim
