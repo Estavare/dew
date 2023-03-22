@@ -12,7 +12,7 @@ passos do github
 -----------------------------------------configurar terminal
 1-ir no menu terminal -- new terminal
 2-digitar os comandos;
-git config --global user.email "feestavaer@gmail.com"
+git config --global user.email "feestavare@gmail.com"
 git config --global user.name "Estavare"
 3-fechar o terminal
 -----------------------------------------
