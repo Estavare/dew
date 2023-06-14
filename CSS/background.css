@@ -1,0 +1,18 @@
+.corfundo{
+    background-color: aqua;
+
+h2{
+    display: inline;
+}
+p{
+display: inline;
+}
+}
+.item{
+    width: 100px;
+    height: 100px;
+
+}
+.item-1 {background-color: red;}
+.item-2 {background-color: yellow;}
+.item-3 {background-color: green;}
