@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+#texto{
+   position: absolute;
+    top : 8px;
+    left: 16px;
+    right: 350;
+
+}
+#img{
+    position: absolute;
+    top : 8px;
+    right: 300px;
+    width: 2500;
+    height: 1740;
+
+}
